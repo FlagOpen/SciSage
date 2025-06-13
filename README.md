@@ -1,2 +1,2 @@
 # SciSage
-official repo of SciSage
+This is the official repo of SciSage project

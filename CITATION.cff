@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use SciSage or SurveyScope, please cite the accompanying paper."
+title: SciSage
+type: software
+authors:
+  - family-names: Shi
+    given-names: Xiaofeng
+repository-code: https://github.com/FlagOpen/SciSage
+url: https://arxiv.org/abs/2506.12689
+license: MIT
+preferred-citation:
+  type: article
+  title: "SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation"
+  authors:
+    - family-names: Shi
+      given-names: Xiaofeng
+    - family-names: Kou
+      given-names: Qian
+    - family-names: Li
+      given-names: Yuduo
+    - family-names: Tang
+      given-names: Ning
+    - family-names: Xie
+      given-names: Jinxin
+    - family-names: Yu
+      given-names: Longbin
+    - family-names: Wang
+      given-names: Songjing
+    - family-names: Zhou
+      given-names: Hua
+  year: 2025
+  doi: 10.48550/arXiv.2506.12689
+  url: https://arxiv.org/abs/2506.12689

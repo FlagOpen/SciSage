@@ -1,6 +1,6 @@
 # SciSage
 
-This is the official repo of Scisage.
+This is the official repository of SciSage.
 
 📄 **Paper**: https://arxiv.org/abs/2506.12689
 
@@ -94,3 +94,19 @@ SciSage/
 ## License
 
 MIT License - see LICENSE file for details.
+
+## Citation
+
+If you use SciSage or SurveyScope in your research, please cite:
+
+```bibtex
+@misc{shi2025scisagemultiagentframeworkhighquality,
+      title={SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation},
+      author={Xiaofeng Shi and Qian Kou and Yuduo Li and Ning Tang and Jinxin Xie and Longbin Yu and Songjing Wang and Hua Zhou},
+      year={2025},
+      eprint={2506.12689},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2506.12689}
+}
+```

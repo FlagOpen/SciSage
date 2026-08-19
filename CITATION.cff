@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Shi
     given-names: Xiaofeng
+    orcid: https://orcid.org/0009-0009-6052-7713
 repository-code: https://github.com/FlagOpen/SciSage
 url: https://arxiv.org/abs/2506.12689
 license: MIT
@@ -14,6 +15,7 @@ preferred-citation:
   authors:
     - family-names: Shi
       given-names: Xiaofeng
+      orcid: https://orcid.org/0009-0009-6052-7713
     - family-names: Kou
       given-names: Qian
     - family-names: Li

@@ -10,7 +10,7 @@ gevent
 PyMuPDF
 uvicorn
 # Web crawling and PDF processing
-crawl4ai>=0.2.0
+crawl4ai>=0.9.0,<1.0.0
 requests>=2.31.0
 pdfminer.six>=20221105
 
@@ -43,7 +43,5 @@ accelerate>=0.20.0
 # Optional: For enhanced text processing
 nltk>=3.8.0
 spacy>=3.6.0
-
-crawl4ai==0.6.3
 
 fastapi
